@@ -10,8 +10,6 @@
 The **IMAGINE Project** explores how **deep learning** and **multimodal data** (images + audio) can estimate environmental exposures such as **ultrafine particle (UFP) concentration** and **noise levels**.  
 It leverages **computer vision**, **spectrogram analysis**, and **XGBoost** to build scalable, low-cost alternatives to traditional air-quality sensors.
 
-Developed as part of the **MSc. Computer Science Research Project** at **McGill University**, under the supervision of *Dr. Scott Weichenthal (Department of Epidemiology, Biostatistics, and Occupational Health).*
-
 ---
 
 ## 🎯 Objectives
